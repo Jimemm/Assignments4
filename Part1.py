@@ -4,6 +4,7 @@ import sys
 import time
 import heapq
 
+# Commit Success
 
 # Part 1
 def naive(transactions, queries):
